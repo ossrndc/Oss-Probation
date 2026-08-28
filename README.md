@@ -18,6 +18,9 @@ Before starting your assigned tasks, please add your details to this README file
 | Riya Nayak      | 25153141    | ML                    |
 | Uditanshu Singh | 25153112    | Backend Development   |
 | Rahul Verma     | 25153096    | Backend Development   |
+| Shivnarayan     |2512104      |   Frontend            |
+| Chaurasiya      |
+                               |
 | Ashwani Rai   | 2513028    | Frontend
 | Rudraksh Baranwal | 2510112   | Frontend              |
 
